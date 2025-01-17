@@ -36,3 +36,6 @@ Specializing in advertising photography for fashion and products.
 
 ## Projects
 
+- **Apartment Price Optimization in Madrid:** Spatial data analysis and zone categorization based on price density and variability.  
+- **Happiness Levels Comparison Across Countries:** Exploratory visualization project using World Happiness Report data.  
+- **Impact of the Educational System on Skill Development:** Longitudinal analysis of educational and labor datasets.  
