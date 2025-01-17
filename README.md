@@ -15,10 +15,10 @@ I embarked on a journey to bridge that gap, transitioning into data analytics to
 ## Education
 
 #### 2024 :: Master's in Data Analytics  **Nuclio Digital School, Barcelona**
-#### 2023 :: Data Visualization **Domestika**
-#### 2022 :: Data Visualization **Domestika**
-#### 2003 :: Degree in Photography **IEFC, Barcelona**
-#### 2000 :: Bachelor of Arts with Honours in Interior Design ** *Elisava*, Barcelona & *Southampton University*, London **
+#### 2023 :: Data Visualization  **Domestika**
+#### 2022 :: Data Visualization  **Domestika**
+#### 2003 :: Degree in Photography  **IEFC, Barcelona**
+#### 2000 :: Bachelor of Arts with Honours in Interior Design  ** *Elisava*, Barcelona & *Southampton University*, London **
 
 ## Work Experience
 
