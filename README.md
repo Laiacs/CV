@@ -1,5 +1,4 @@
-Laia Campoy :: Data Analyst
-# Hi! I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
+# Hello! I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
 
 ## Education
 
