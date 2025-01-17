@@ -6,27 +6,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display0swap');
 body {
   background-color: #E4F1AC;
-  color: #F72C5B;
+  color: #F72C5B; /* Color para texto normal */
   font-family:"Montserrat"
 }
-h2, a {
-  color: #FF748B;
-}
-
 h1 {
-  color: #A35C7A; /* Color para h1 */
+  color: #F72C5B; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
 }
-
-h3 {
-  color: #A7D477; /* Color para h3 */
+h2, a {
+  color: #FF748B; /* Color para h2 Education Work exp */
   font-size: 1.75rem;
 }
-
+h3 {
+  color: #A7D477; /* Color para h3 2024 - Master's in Data Analytics */
+}
 /* Texto en negrita generado desde Markdown */
 strong, b {
   color: #A7D477; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
+}
+.view, footer {
+  display:none;
 }
 
 
