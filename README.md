@@ -3,12 +3,12 @@
 With over 7 years of experience leading teams in the creative industry and a solid transition into data analysis, I bring a unique blend of skills in strategic management, data visualization, and data-driven decision-making. My background in Data Analytics and previous experience in design and management enable me to approach projects holistically, ensuring actionable insights and impactful visual solutions.
 
 ## Skills
-	•	Data Analysis and Visualization: Looker Studio, Tableau, Power BI, matplotlib, seaborn
-	•	Programming Languages: Python (pandas, NumPy), SQL
-	•	Project Management and Optimization: Expertise in budgeting, team management, and strategic planning.
-	•	Data Modeling and Prediction: Statistical models and machine learning techniques.
-	•	Data Storytelling: Clear and impactful visual design for stakeholders.
-	•	Analytical Tools and Software: Advanced Excel, Google Analytics, BigQuery.
+- **Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn.  
+- **Programming Languages:** Python (pandas, NumPy), SQL, R.  
+- **Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
+- **Data Modeling and Prediction:** Statistical models and machine learning techniques.  
+- **Data Storytelling:** Clear and impactful visual design for stakeholders.  
+- **Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
  
 ## Education
 
