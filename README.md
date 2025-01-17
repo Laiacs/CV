@@ -3,19 +3,19 @@
 ## Education
 
 ### 2024 - Master's in Data Analytics  
-**Nuclio Digital School, Barcelona**
+Nuclio Digital School, Barcelona
 
 ### 2023 - Data Visualization
-**Domestika**
+Domestika
 
-### 2022 - Data Visualization**
-**Domestika**
+### 2022 - Data Visualization
+Domestika
 
 ### 2003 - Degree in Photography 
-**IEFC, Barcelona** 
+IEFC, Barcelona
 
 ### 2000 - Bachelor of Arts with Honours in Interior Design
-***Elisava*, Barcelona & *Southampton University*, London**  
+*Elisava*, Barcelona & *Southampton University*, London 
 
 ## Work Experience
 
