@@ -3,12 +3,12 @@
 With over 7 years of experience leading teams in the creative industry and a solid transition into data analysis, I bring a unique blend of skills in strategic management, data visualization, and data-driven decision-making. My background in Data Analytics and previous experience in design and management enable me to approach projects holistically, ensuring actionable insights and impactful visual solutions.
 
 ## Skills
-- **Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn.  
-- **Programming Languages:** Python (pandas, NumPy), SQL.  
-- **Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
-- **Data Modeling and Prediction:** Statistical models and machine learning techniques.  
-- **Data Storytelling:** Clear and impactful visual design for stakeholders.  
-- **Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
+**Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn.  
+**Programming Languages:** Python (pandas, NumPy), SQL.  
+**Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
+**Data Modeling and Prediction:** Statistical models and machine learning techniques.  
+**Data Storytelling:** Clear and impactful visual design for stakeholders.  
+**Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
  
 ## Education
 
@@ -36,6 +36,6 @@ Specializing in advertising photography for fashion and products.
 
 ## Projects
 
-- **Apartment Price Optimization in Madrid:** Spatial data analysis and zone categorization based on price density and variability.  
-- **Happiness Levels Comparison Across Countries:** Exploratory visualization project using World Happiness Report data.  
-- **Impact of the Educational System on Skill Development:** Longitudinal analysis of educational and labor datasets.  
+**Apartment Price Optimization in Madrid:** Spatial data analysis and zone categorization based on price density and variability.  
+**Happiness Levels Comparison Across Countries:** Exploratory visualization project using World Happiness Report data.  
+**Impact of the Educational System on Skill Development:** Longitudinal analysis of educational and labor datasets.  
