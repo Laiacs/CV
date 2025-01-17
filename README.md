@@ -1,4 +1,5 @@
-# Hello! I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
+# I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
+## Summary
 
 ## Education
 
@@ -31,3 +32,5 @@ For a variety of studio clients, ranging from CUPRA & SEAT to Rosa Clará.
 
 ### 09/2004 - 06/2007 -- Postproduction Artist at Francesc Arnó Studio
 Specializing in advertising photography for fashion and products.
+
+## Education
