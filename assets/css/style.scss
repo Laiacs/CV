@@ -5,12 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display0swap');
 body {
-  background-color: #FBF5E5;
-  color: #C890A7;
+  background-color: #E4F1AC;
+  color: #F72C5B;
   font-family:"Montserrat"
 }
 h2, a {
-  color: #A35C7A;
+  color: #FF748B;
 }
 
 h1 {
@@ -19,13 +19,13 @@ h1 {
 }
 
 h3 {
-  color: #212121; /* Color para h3 */
+  color: #A7D477; /* Color para h3 */
   font-size: 1.75rem;
 }
 
 /* Texto en negrita generado desde Markdown */
 strong, b {
-  color: #A35C7A; /* Color especial para negritas */
+  color: #A7D477; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
 
