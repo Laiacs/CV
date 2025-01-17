@@ -23,10 +23,6 @@ IEFC, Barcelona
 **Bachelor of Arts with Honours in Interior Design**  
 *Elisava*, Barcelona & *Southampton University*, London  
 
-### 1996  
-**High School and Pre-University Course (COU) & University Entrance Exam (PAAU)**  
-Institució Pere Vergés, Badalona 
-
 ## Work Experience
 
 ### 07/2016 - 06/2023
