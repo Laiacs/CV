@@ -8,7 +8,16 @@ body {
   color: #DEAA79; /* Color para texto normal */
   font-family:"Montserrat"
 }
-
+header h1 a {
+  font-size: 48px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #659287;
+  text-decoration: none;
+}
+header h1 a:hover {
+  color: #659287;
+}
 h1 {
   color: #DEAA79; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
