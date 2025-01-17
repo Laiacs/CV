@@ -2,13 +2,14 @@
 ---
 
 @import "{{ site.theme}}";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display0swap');
 body {
   background-color: F0F0D7;
-  font-family:"Roboto Slab"
+  font-family:"Montserrat"
 }
 h2, a {
-  color: #F4A202;
+  color: #727D73;
 }
 
 .view, footer {
