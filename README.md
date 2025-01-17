@@ -1,4 +1,4 @@
-# I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
+# I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories, supported by years of experience managing teams and projects.
 ## Summary
 With over 7 years of experience leading teams in the creative industry and a solid transition into data analysis, I bring a unique blend of skills in strategic management, data visualization, and data-driven decision-making. My background in Data Analytics and previous experience in design and management enable me to approach projects holistically, ensuring actionable insights and impactful visual solutions.
 
