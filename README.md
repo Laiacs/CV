@@ -1,5 +1,4 @@
-Laia Campoy :: Data Analyst
-# Hi! I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
+# Hello! I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories.
 
 ## Education
 
@@ -22,10 +21,6 @@ IEFC, Barcelona
 ### 2000  
 **Bachelor of Arts with Honours in Interior Design**  
 *Elisava*, Barcelona & *Southampton University*, London  
-
-### 1996  
-**High School and Pre-University Course (COU) & University Entrance Exam (PAAU)**  
-Institució Pere Vergés, Badalona 
 
 ## Work Experience
 
