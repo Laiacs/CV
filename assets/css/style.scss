@@ -18,10 +18,10 @@ header h1 a {
 header h1 a:hover {
   color: #659287;
 }
-.role {
-  font-size: 24px; /* Cambia el tamaño */
+header > p {
+  font-size: 24px; /* Aumenta el tamaño del texto */
   font-weight: bold; /* Aplica negrita */
-  color: #DEAA79; /* Cambia el color si es necesario */
+  color: #DEAA79; /* Cambia el color si lo deseas */
   text-align: center; /* Centra el texto (opcional) */
 }
 h1 {
