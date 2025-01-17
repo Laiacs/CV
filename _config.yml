@@ -1,0 +1,6 @@
+title: Laia Campoy
+logo: "Laia Campoy.png"
+description: Data Analyst
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
