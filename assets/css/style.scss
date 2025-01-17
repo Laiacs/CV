@@ -2,7 +2,15 @@
 ---
 
 @import "{{ site.theme}}";
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display0swap');
 body {
   background-color: lightgrey;
+  font-family:"Roboto Slab"
+}
+h2, a {
+  color: #F4A202;
+}
+
+.view, footer {
+  display:none;
 }
