@@ -8,6 +8,11 @@ body {
   color: #DEAA79; /* Color para texto normal */
   font-family:"Montserrat"
 }
+header > p {
+  font-size: 24px; /* Aumenta el tamaño del texto */
+  font-weight: bold; /* Aplica negrita */
+  color: #DEAA79; /* Cambia el color si lo deseas */
+}
 
 h1 {
   color: #DEAA79; /* Color para h1 Hello! I'm */
@@ -26,7 +31,9 @@ strong, b {
   color: #a4b88e; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
-
+.view, footer {
+  display:none;
+}
 
 
 
