@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display0swap');
 body {
-  background-color: #fff4de;
+  background-color: #fffdf8;
   color: #DEAA79; /* Color para texto normal */
   font-family:"Montserrat"
 }
@@ -16,14 +16,14 @@ h1 {
 
 h2, a {
   color: #659287; /* Color para h2 Education Work exp i Laia Campoy */
-  font-size: 2rem;
+  font-size: 1.4rem;
 }
 h3 {
-  color: #B1C29E; /* Color para h3 2024 - Master's in Data Analytics*/
+  color: #a4b88e; /* Color para h3 2024 - Master's in Data Analytics*/
 }
 /* Texto en negrita generado desde Markdown */
 strong, b {
-  color: #B1C29E; /* Color especial para negritas */
+  color: #a4b88e; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
 .view, footer {
