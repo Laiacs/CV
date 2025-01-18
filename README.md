@@ -8,12 +8,12 @@ With over 7 years leading teams in the creative industry, I realized the potenti
 **Programming Languages:** Python (pandas, NumPy), SQL.  
 **Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
 **Data Modeling and Prediction:** Statistical models and machine learning techniques.
-**Artificial Intelligence and Machine Learning:** Familiarity with supervised and unsupervised learning models, leveraging AI frameworks for data-driven solutions.
+**Artificial Intelligence and Machine Learning:** Basic understanding of supervised and unsupervised learning models, applying AI frameworks for data-driven solutions.
 **Data Storytelling:** Clear and impactful visual design for stakeholders.  
-**Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
+**Analytical Tools and Software:** Advanced Excel, Google Analytics?, BigQuery.  
  
 ## Education
-
+**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona  
 **2024 :: Master's in Data Analytics** Nuclio Digital School, Barcelona  
 **2023 :: Data Visualization**  Domestika  
 **2022 :: Data Visualization** Domestika  
