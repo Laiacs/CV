@@ -1,8 +1,4 @@
-# I am a data visualization specialist based in Barcelona, blending strategic insights with impactful visuals to tell compelling stories, supported by proven experience in team and project management.
-## My Path to Data Analytics
-Throughout my career, I’ve always sought to uncover the ‘why’ behind challenges. With over 7 years of experience leading teams in the creative industry, I was responsible for managing budgets, overseeing projects, and navigating the pressures of meeting expectations. Over time, I began to question why, despite our department’s evident success in generating revenue, the numbers didn’t seem to align with the company’s overall profitability. This realization sparked my interest in data-driven problem-solving.
-
-I embarked on a journey to bridge that gap, transitioning into data analytics to understand the trends, patterns, and insights that often remain hidden without proper analysis. Now, with a solid foundation in data visualization, strategic management, and analytics, I approach projects holistically, combining my background in design and management to deliver actionable insights and impactful solutions. Every step of my career has reinforced my belief in the transformative power of data, ultimately leading me to pursue a Master’s in Data Analytics and focus on unlocking value for businesses through informed decision-making.
+# With over 7 years leading teams in the creative industry, I realized the potential of data when managing budgets and questioning financial discrepancies. This sparked my transition to data analytics, where I now combine my background in management and design with analytical tools to deliver actionable insights and impactful solutions. Every step of my career has reinforced the value of data-driven decision-making, culminating in my pursuit of a Master’s in Data Analytics.
 
 ## Skills
 **Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn.  
