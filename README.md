@@ -9,11 +9,12 @@ With over 7 years leading teams in the creative industry, I realized the potenti
 **Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
 **Data Modeling and Prediction:** Statistical models and machine learning techniques.
 **Artificial Intelligence and Machine Learning:** Basic understanding of supervised and unsupervised learning models, applying AI frameworks for data-driven solutions.
-**Data Storytelling:** Clear and impactful visual design for stakeholders.  
-**Analytical Tools and Software:** Advanced Excel, Google Analytics?, BigQuery.  
+**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma, and AI-powered solutions.
+**Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.
  
 ## Education
-**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona  
+**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona
+**2024 :: Data Scientist Course** UOC, Barcelona
 **2024 :: Master's in Data Analytics** Nuclio Digital School, Barcelona  
 **2023 :: Data Visualization**  Domestika  
 **2022 :: Data Visualization** Domestika  
@@ -22,7 +23,7 @@ With over 7 years leading teams in the creative industry, I realized the potenti
 
 ## Work Experience
 
-**07/2016 - 06/2023 :: Team Manager at EGM Studio**
+**2016 - 2023 :: Team Manager at EGM Studio**
 Responsible for leading a team of over 20 people at the creative studio specializing in CGI & post-production. Tasks included budgeting, recruiting personnel, and managing/monitoring projects.
 
 **2012 - 2016 :: SEAT & CUPRA’s Car Configurator Project Manager at EGM Studio**
@@ -37,5 +38,5 @@ Specializing in advertising photography for fashion and products.
 ## Projects
 
 **Apartment Price Optimization in Madrid:** Spatial data analysis and zone categorization based on price density and variability.  
-**Life Expectancy Comparison Across Countries:** Exploratory visualization project using World Happiness Report data.  
+**Life Expectancy Comparison Across Countries:** Exploratory visualization project using World's Life Expectancy Report data.  
 **Impact of the Educational System on Skill Development:** Longitudinal analysis of educational and labor datasets.  
