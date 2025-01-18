@@ -7,7 +7,8 @@ With over 7 years leading teams in the creative industry, I realized the potenti
 **Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn.  
 **Programming Languages:** Python (pandas, NumPy), SQL.  
 **Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.  
-**Data Modeling and Prediction:** Statistical models and machine learning techniques.  
+**Data Modeling and Prediction:** Statistical models and machine learning techniques.
+**Artificial Intelligence and Machine Learning:** Familiarity with supervised and unsupervised learning models, leveraging AI frameworks for data-driven solutions.
 **Data Storytelling:** Clear and impactful visual design for stakeholders.  
 **Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
  
