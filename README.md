@@ -16,7 +16,8 @@ With over 7 years leading teams in the creative industry, I realized the potenti
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona    
 **2024 :: Data Scientist Course** UOC, Barcelona    
 **2024 :: Master's in Data Analytics** Nuclio Digital School, Barcelona    
-**2023 :: Data Visualization and Information Design** Domestika       
+**2022 - 2023 :: Various Courses on Data Visualization and Information Design** – Domestika  
+Focused on mastering visual storytelling, advanced infographic techniques, and creative tools like Illustrator and Photoshop for data-driven projects.         
 **2022 :: Data Visualization** Domestika      
 **2003 :: Degree in Photography** IEFC, Barcelona      
 **2000 :: Bachelor of Arts with Honours in Interior Design** Elisava, *Barcelona* & Southampton University, *London*      
