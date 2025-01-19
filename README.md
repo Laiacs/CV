@@ -23,13 +23,13 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 ## Work Experience
 
 **2016 - 2023 :: Team Manager at EGM Studio**
-Responsible for leading a team of over 20 people at the creative studio specializing in CGI & post-production. Tasks included budgeting, recruiting personnel, and managing/monitoring projects.
+Responsible for leading a team of over 20 people at the creative studio specializing in CGI & post-production. Tasks included budgeting, recruiting personnel, and managing/monitoring projects.  
 **2012 - 2016 :: SEAT & CUPRA’s Car Configurator Project Manager at EGM Studio**
-Managed the production of the Car Configurator project for SEAT’s website, performing CGI and post-production tasks.
+Managed the production of the Car Configurator project for SEAT’s website, performing CGI and post-production tasks.  
 **2007 - 2012 :: Postproduction & CG Artist at EGM Studio**
-For a variety of studio clients, ranging from CUPRA & SEAT to Rosa Clará.
+For a variety of studio clients, ranging from CUPRA & SEAT to Rosa Clará.  
 **2004 - 2007 :: Postproduction Artist at Francesc Arnó Studio**
-Specializing in advertising photography for fashion and products.
+Specializing in advertising photography for fashion and products.  
 
 ## Projects
 
