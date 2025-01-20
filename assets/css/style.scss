@@ -4,36 +4,36 @@
 @import "{{ site.theme}}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  background-color: #A1D6CB;
+  background-color: #c5e5df;
   color: #8076c4; /* Color para texto normal */
   font-family:"Montserrat"
 }
 header > p {
   font-size: 28px; /* Aumenta el tamaño del texto */
    /*font-weight: bold; Aplica negrita */
-  color: #FFF574; /* Cambia el color si lo deseas */
+  color: #FF8383; /* Cambia el color si lo deseas */
 }
 
 h1 {
-  color: #FFF574; /* Color para h1 Hello! I'm */
+  color: #FF8383; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
 }
 
 h2, a {
-  color: #FF8383; /* Color para h2 Education Work exp i Laia Campoy */
+  color: #FFF574; /* Color para h2 Education Work exp i Laia Campoy */
   font-size: 2rem;
 }
 
 h3 {
-  color: #FF8383; /* Color para h3 2024 - 07/2016 - 06/2023 :: Team Manager at EGM Studio*/
+  color: #FFF574; /* Color para h3 2024 - 07/2016 - 06/2023 :: Team Manager at EGM Studio*/
 }
 h4 {
-  color: #FF8383; /* Color para h4 2024 - Master's in Data Analytics*/
+  color: #FFF574; /* Color para h4 2024 - Master's in Data Analytics*/
   font-size: 1rem;
 }
 /* Texto en negrita generado desde Markdown */
 strong, b {
-  color: #FFF574; /* Color especial para negritas */
+  color: #FF8383; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
 .view, footer {
