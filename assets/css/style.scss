@@ -4,43 +4,38 @@
 @import "{{ site.theme}}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  background-color: #f5f0e9;
-  color: #c57f8b; /* Color para texto normal */
+  background-color: #fff6d4;
+  color: #A66E38; /* Color para texto normal */
   font-family:"Montserrat"
 }
 header > p {
   font-size: 28px; /* Aumenta el tamaño del texto */
    /*font-weight: bold; Aplica negrita */
-  color: #7faec5; /* Cambia el color si lo deseas */
+  color: #73be9b; /* Cambia el color si lo deseas */
 }
 
 h1 {
-  color: #7faec5; /* Color para h1 Hello! I'm */
+  color: #73be9b; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
 }
 
 h2, a {
-  color: #7fc5b9; /* Color para h2 Education Work exp i Laia Campoy */
+  color: #FFAD60; /* Color para h2 Education Work exp i Laia Campoy */
   font-size: 2rem;
 }
 
 h3 {
-  color: #7fc5b9; /* Color para h3 2024 - 07/2016 - 06/2023 :: Team Manager at EGM Studio*/
+  color: #FFAD60; /* Color para h3 2024 - 07/2016 - 06/2023 :: Team Manager at EGM Studio*/
 }
 h4 {
-  color: #7fc5b9; /* Color para h4 2024 - Master's in Data Analytics*/
+  color: #FFAD60; /* Color para h4 2024 - Master's in Data Analytics*/
   font-size: 1rem;
 }
 /* Texto en negrita generado desde Markdown */
 strong, b {
-  color: #7faec5; /* Color especial para negritas */
+  color: #73be9b; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
 .view, footer {
   display:none;
 }
-
-
-
-
-
