@@ -36,24 +36,12 @@ strong, b {
   color: #73be9b; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
-a {
-    /* background-color: #f0f0f0; /* Cambia el color de fondo */
-    /*color: #A66E38; /* Cambia el color del texto del enlace */
-    /* text-decoration: none; /* Opcional: elimina el subrayado */
-    /* padding: 4px;  Opcional: agrega un poco de espacio alrededor del texto */
-    /* border-radius: 4px; /* Opcional: redondea los bordes */
-    /*font-size: 1rem/*
-}
 .wrapper a {
     background-color: #A66E38;
     color: #A66E38;
     text-decoration: none;
     padding: 4px;
     border-radius: 4px;
-}
-
-a:hover {
-    background-color: #A66E38; /* Cambia el color de fondo al pasar el cursor */
 }
 
 .view, footer {
