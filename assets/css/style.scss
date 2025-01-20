@@ -18,6 +18,15 @@ h1 {
   color: #73be9b; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
 }
+.wrapper header h1 a {
+    font-size: 18px; /* Ajusta el tamaño */
+    color: #A66E38; /* Cambia el color del texto */
+    text-decoration: none; /* Sin subrayado */
+}
+
+.wrapper header h1 a:hover {
+    color: #A66E38; /* Cambia el color al pasar el ratón */
+}
 
 h2, a {
   color: #FFAD60; /* Color para h2 Education Work exp i Laia Campoy */
