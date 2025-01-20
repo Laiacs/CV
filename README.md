@@ -2,7 +2,8 @@
 
 ## From team and project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations.  
-During my Master’s in Data Analytics, I discovered how AI is making data science more accessible and have since focused on thoughtfully applying these technologies to create data-driven solutions. I am eager to put everything I’ve learned into practice and continue growing.
+During my Master’s in Data Analytics, I discovered how AI is making data science more accessible and have since focused on thoughtfully applying these technologies to create data-driven solutions.  
+I am eager to put everything I’ve learned into practice and continue growing.
 
 ## Skills
 **Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.        
