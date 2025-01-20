@@ -4,18 +4,18 @@
 @import "{{ site.theme}}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  background-color: #fdfcfa;
+  background-color: #bbddb4;
   color: #bd6d7b; /* Color para texto normal */
   font-family:"Montserrat"
 }
 header > p {
   font-size: 28px; /* Aumenta el tamaño del texto */
    /*font-weight: bold; Aplica negrita */
-  color: #c5967f; /* Cambia el color si lo deseas */
+  color: #b97fc5; /* Cambia el color si lo deseas */
 }
 
 h1 {
-  color: #c5967f; /* Color para h1 Hello! I'm */
+  color: #b97fc5; /* Color para h1 Hello! I'm */
   font-size: 2.5rem; /* Tamaño más grande */
 }
 
@@ -33,7 +33,7 @@ h4 {
 }
 /* Texto en negrita generado desde Markdown */
 strong, b {
-  color: #c5967f; /* Color especial para negritas */
+  color: #b97fc5; /* Color especial para negritas */
   font-weight: bold; /* Asegura que se vean más gruesas */
 }
 .view, footer {
