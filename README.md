@@ -6,13 +6,12 @@ During my Master’s in Data Analytics, I discovered how AI is making data scien
 I am eager to put everything I’ve learned into practice and continue growing.
 
 ## Skills
-**Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.        
-**Programming Languages:** Python (pandas, NumPy), SQL.     
-**Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning.      
-**Data Modeling and Prediction:** Statistical models and machine learning techniques.  
-**Artificial Intelligence and Machine Learning:** Basic understanding of supervised and unsupervised learning models, applying AI frameworks for data-driven solutions.  
-**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma, and AI-powered solutions.  
+**Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
+**Programming Languages:** Python (pandas, NumPy), SQL.  
+**Data Modeling and Prediction:** Developing statistical models and leveraging data to uncover trends, patterns, and actionable insights.  **Artificial Intelligence and Machine Learning:** Basic understanding of supervised and unsupervised learning models, applying AI frameworks for data-driven solutions.  
 **Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
+**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma, and AI-powered solutions.  
+**Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning. 
  
 ## Education
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona    
