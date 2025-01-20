@@ -34,8 +34,6 @@ Specializing in advertising photography for fashion and products.
 
 ## Projects
 
-**Apartment Price Optimization in Madrid:** Spatial data analysis and zone categorization based on price density and variability.  
-**Life Expectancy Comparison Across Countries:** [Life Expectancy](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)
-
-
+**Airbnb: Apartment Price Optimization in Madrid:** [See complete project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
+**Health Analytics: Life Expectancy Analysis:** [See complete project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)  
 **Impact of the Educational System on Skill Development:** Longitudinal analysis of educational and labor datasets.  
