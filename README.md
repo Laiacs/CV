@@ -40,5 +40,5 @@ Specializing in advertising photography for fashion and products.
 [See complete project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)  
 **Lift&Lead: Analysis of Medals from the European Weightlifting Championship** Analysis of the medals won at the European Weightlifting Championship for 'Lift&Lead,' a fictional company planning to open CrossFit centers in Spain. The goal of this study is to provide key insights into athlete performance and assist in strategic decision-making for the company.  
 [See complete project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Lift_&_Lead) 
-**Health Analytics: Life Expectancy Analysis:** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.
+**Health Analytics: Life Expectancy Analysis:** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See complete project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio)  
