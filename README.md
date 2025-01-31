@@ -7,10 +7,10 @@ I am eager to put everything I’ve learned into practice and continue growing.
 
 ## Skills
 **Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
-**Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.
+**Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.  
 **Machine Learning & AI:** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.   
 **Analytical Tools:** Advanced Excel, Google Analytics.   
-**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma, and AI-powered solutions.  
+**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization. 
  
 ## Education
