@@ -14,8 +14,7 @@ I am eager to put everything I’ve learned into practice and continue growing.
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization. 
  
 ## Education
-**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona    
-**2024 :: Data Scientist Course** UOC, Barcelona    
+**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona        
 **2024 :: Master's in Data Analytics** Nuclio Digital School, Barcelona    
 **2022 - 2023 :: Various Courses on Data Visualization and Information Design** – Domestika       
 **2003 :: Degree in Photography** IEFC, Barcelona      
