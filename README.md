@@ -6,13 +6,12 @@ During my Master’s in Data Analytics, I discovered how AI is making data scien
 I am eager to put everything I’ve learned into practice and continue growing.
 
 ## Skills
-**Data Analysis and Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
-**Programming Languages:** Python (pandas, NumPy), SQL.  
-**Data Modeling and Prediction:** Developing statistical models and leveraging data to uncover trends, patterns, and actionable insights.  
-**Artificial Intelligence and Machine Learning:** Basic understanding of supervised and unsupervised learning models, applying AI frameworks for data-driven solutions.  
-**Analytical Tools and Software:** Advanced Excel, Google Analytics, BigQuery.  
+**Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
+**Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.
+**Machine Learning & AI:** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.   
+**Analytical Tools:** Advanced Excel, Google Analytics.   
 **Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma, and AI-powered solutions.  
-**Project Management and Optimization:** Expertise in budgeting, team management, and strategic planning. 
+**Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization. 
  
 ## Education
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona    
@@ -46,3 +45,13 @@ Specializing in advertising photography for fashion and products.
 
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio)  
+
+## Languages  
+
+**English**
+Fluent  
+**Spanish**
+Native 
+**Catalan**
+Native
+
