@@ -54,3 +54,8 @@ Native
 **Catalan**
 Native
 
+## Contact
+Barcelona, Spain  
+laiacampoy@gmail.com  
+Linkedin: linkedin.com/in/laia-campoy  
+
