@@ -50,7 +50,7 @@ Specializing in advertising photography for fashion and products.
 **English**
 Fluent  
 **Spanish**
-Native 
+Native  
 **Catalan**
 Native
 
