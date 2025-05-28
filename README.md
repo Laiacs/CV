@@ -32,11 +32,7 @@ I am eager to put everything I’ve learned into practice and continue growing.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 
-## Education
-![Education](Education.png)
-
-## Work Experience
-![WorkExperience](WorkExperience.png)
+![Llegenda_02](Llegenda_02.png)
 
 **2016 - 2023 :: Team Manager at EGM Studio**
 Responsible for leading a team of over 20 people at the creative studio specializing in CGI & post-production. Tasks included budgeting, recruiting personnel, and managing/monitoring projects.  
