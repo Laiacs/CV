@@ -26,7 +26,7 @@
 
 **How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
 
-![Temps_Laia](temps_Laia_03.png)
+![Temps_Laia](temps_Laia_04.png)
 
 
 ![Llegenda_temps_Laia](llegenda_temps_Laia_03.png)
@@ -56,6 +56,6 @@ Native
 ## Contact
 Barcelona, Spain  
 laiacampoy@gmail.com  
-[linkedin.com/in/laia-campoy](linkedin.com/in/laia-campoy)  
+[linkedin.com/in/laia-campoy](linkedin.com/in/laia-campoy)
 [github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
 
