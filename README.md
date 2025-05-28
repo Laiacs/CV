@@ -3,7 +3,9 @@
 ## I see data visualization as a form of functional art:
 # turning complexity into visual narratives that connect data with people.
 
-## Data Projects
+
+
+## Data Projects:
 
 **Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [See Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
@@ -22,7 +24,7 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 **I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.**
 
-## Skills
+## Skills:
 **Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
 **Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.  
 **Machine Learning & AI:** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.   
@@ -34,7 +36,7 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 ![Llegenda_02](Llegenda_02.png)
 
-## Languages  
+## Languages:  
 
 **English**
 Fluent  
