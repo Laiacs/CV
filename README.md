@@ -19,15 +19,15 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-**How I spent my time** A graphic that explores how I spent my time since I starded studying.
-
-![Llegenda_temps_Laia](llegenda_temps_Laia_02.png)
-![Temps_Laia](temps_Laia_02.png)
-
 **My CV** Hot colors for my Experience and cold colors for my Education.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
+
+**How I spent my time** A graphic that explores how I spent my time since I starded studying.
+
+![Temps_Laia](temps_Laia_02.png)
+![Llegenda_temps_Laia](llegenda_temps_Laia_02.png)
 
 ## From team & project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
