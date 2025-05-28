@@ -24,9 +24,11 @@
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
 
-**How I spent my time** A graphic that explores how I spent my time since I starded studying.
+**How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
 
 ![Temps_Laia](temps_Laia_03.png)
+
+
 ![Llegenda_temps_Laia](llegenda_temps_Laia_03.png)
 
 ## From team & project management to Data Analytics
