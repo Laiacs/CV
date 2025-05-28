@@ -27,7 +27,7 @@ I am eager to put everything I’ve learned into practice and continue growing.
 **Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
 
-![CVEspiral](CV_Espiral.jpg)
+![CVEspiral](CV_Espiral_01.jpg)
 
 ## Education
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona        
