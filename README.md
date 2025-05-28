@@ -19,15 +19,17 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-**My CV** Hot colors for my Experience and cold colors for my Education.
+**My Resume** Explore a circular time line of my Resume where hot colors are for my Experience and cold colors are for my Education.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
 
-**How I spent my time** A graphic that explores how I spent my time since I starded studying.
+**How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
 
-![Temps_Laia](temps_Laia_02.png)
-![Llegenda_temps_Laia](llegenda_temps_Laia_02.png)
+![Temps_Laia](temps_Laia_03.png)
+
+
+![Llegenda_temps_Laia](llegenda_temps_Laia_03.png)
 
 ## From team & project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
@@ -54,6 +56,6 @@ Native
 ## Contact
 Barcelona, Spain  
 laiacampoy@gmail.com  
-**[linkedin](linkedin.com/in/laia-campoy)**    
-**[Github](https://github.com/Laiacs/Portfolio)**
+[linkedin.com/in/laia-campoy](linkedin.com/in/laia-campoy)  
+[github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
 
