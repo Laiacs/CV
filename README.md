@@ -22,6 +22,7 @@
 **How I spent my time** A graphic that explores how I spent my time since I starded studying.
 
 ![Temps_Laia](temps_Laia.png)
+![Llegenda_temps_Laia](llegenda_temps_Laia.png)
 
 **My CV** Hot colors for my Experience and cold colors for my Education.
 
