@@ -19,6 +19,10 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio)  
 
+![CVEspiral](CV_Espiral_01.jpg)
+
+![Llegenda_02](Llegenda_02.png)
+
 ## From team & project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
 
@@ -31,10 +35,6 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 **Analytical Tools:** Advanced Excel, Google Analytics.   
 **Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
-
-![CVEspiral](CV_Espiral_01.jpg)
-
-![Llegenda_02](Llegenda_02.png)
 
 ## Languages:  
 
