@@ -1,5 +1,6 @@
 # Specialized in data analysis, with a background in design and experience leading technical teams in creative projects.
-## I see data visualization as a form of functional art: # turning complexity into visual narratives that connect data with people.
+## I see data visualization as a form of functional art:
+# turning complexity into visual narratives that connect data with people.
 
 ## Data Projects
 
