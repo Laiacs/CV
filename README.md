@@ -1,4 +1,6 @@
-# I am a data visualization specialist based in Barcelona, blending strategic insights with clear and compelling visuals to drive effective storytelling.
+# Specialized in data analysis, with a background in design and experience leading technical teams in creative projects.
+# I see data visualization as a form of functional art: turning complexity into visual narratives that connect data with people.
+# I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.
 
 ## Projects
 
@@ -27,7 +29,8 @@ I am eager to put everything I’ve learned into practice and continue growing.
 **Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
 
-![CVEspiral](CV_Espiral.jpg)
+![CVEspiral](CV_Espiral_01.jpg)
+![Llegenda](Llegenda.jpg)
 
 ## Education
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona        
