@@ -54,6 +54,6 @@ Native
 ## Contact
 Barcelona, Spain  
 laiacampoy@gmail.com  
-**[linkedin]**(linkedin.com/in/laia-campoy)  
-**[Github]**(https://github.com/Laiacs/Portfolio)
+**[linkedin](linkedin.com/in/laia-campoy)**    
+**[Github](https://github.com/Laiacs/Portfolio)**
 
