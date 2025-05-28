@@ -19,9 +19,10 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-![Llegenda_02](Llegenda_02.png)
+![Temps_Laia](Temps_Laia.png)
 
 ![CVEspiral](CV_Espiral_01.jpg)
+![Llegenda_02](Llegenda_02.png)
 
 ## From team & project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
@@ -48,5 +49,6 @@ Native
 ## Contact
 Barcelona, Spain  
 laiacampoy@gmail.com  
-Linkedin: linkedin.com/in/laia-campoy  
+[linkedin](linkedin.com/in/laia-campoy)
+[Github](https://github.com/Laiacs/Portfolio)
 
