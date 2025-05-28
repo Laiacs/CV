@@ -4,14 +4,14 @@
 @import "{{ site.theme}}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
-  background-color: #fffbee;
-  color: #A66E38; /* Color para texto normal */
+  background-color: #F4EFEC;
+  color: #5EA59D; /* Color para texto normal */
   font-family:"Montserrat"
 }
 header > p {
   font-size: 28px; /* Aumenta el tamaño del texto */
    /*font-weight: bold; Aplica negrita */
-  color: #73be9b; /* Cambia el color si lo deseas */
+  color: #C08573; /* Cambia el color si lo deseas */
 }
 
 h1 {
