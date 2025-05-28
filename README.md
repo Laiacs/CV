@@ -30,6 +30,7 @@ I am eager to put everything I’ve learned into practice and continue growing.
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
 
 ![CVEspiral](CV_Espiral_01.jpg)
+![Llegenda](Llegenda.jpg)
 
 ## Education
 **2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona        
