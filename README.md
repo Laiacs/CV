@@ -21,7 +21,7 @@
 
 **How I spent my time** A graphic that explores how I spent my time since I starded studying.
 
-![Temps_Laia](temps_Laia.png)
+![Temps_Laia](temps_Laia_02.png)
 ![Llegenda_temps_Laia](llegenda_temps_Laia.png)
 
 **My CV** Hot colors for my Experience and cold colors for my Education.
@@ -53,9 +53,7 @@ Native
 
 ## Contact
 Barcelona, Spain  
-laiacampoy@gmail.com
-
-[linkedin](linkedin.com/in/laia-campoy)
-
+laiacampoy@gmail.com  
+[linkedin](linkedin.com/in/laia-campoy)  
 [Github](https://github.com/Laiacs/Portfolio)
 
