@@ -31,16 +31,12 @@ I am eager to put everything I’ve learned into practice and continue growing.
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
 
 ![CVEspiral](CV_Espiral_01.jpg)
-![Llegenda](Llegenda.jpg)
 
 ## Education
-**2025 :: Minor in Analytical Implementation in Digital Marketing** Nuclio Digital School, Barcelona        
-**2024 :: Master's in Data Analytics** Nuclio Digital School, Barcelona    
-**2022 - 2023 :: Various Courses on Data Visualization and Information Design** – Domestika       
-**2003 :: Degree in Photography** IEFC, Barcelona      
-**2000 :: Bachelor of Arts with Honours in Interior Design** Elisava, *Barcelona* & Southampton University, *London*      
+![Education](Education.png)
 
 ## Work Experience
+![WorkExperience](WorkExperience.png)
 
 **2016 - 2023 :: Team Manager at EGM Studio**
 Responsible for leading a team of over 20 people at the creative studio specializing in CGI & post-production. Tasks included budgeting, recruiting personnel, and managing/monitoring projects.  
