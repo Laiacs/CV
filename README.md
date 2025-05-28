@@ -26,8 +26,8 @@
 
 **How I spent my time** A graphic that explores how I spent my time since I starded studying.
 
-![Temps_Laia](temps_Laia_02.png)
-![Llegenda_temps_Laia](llegenda_temps_Laia_02.png)
+![Temps_Laia](temps_Laia_03.png)
+![Llegenda_temps_Laia](llegenda_temps_Laia_03.png)
 
 ## From team & project management to Data Analytics
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
@@ -54,6 +54,6 @@ Native
 ## Contact
 Barcelona, Spain  
 laiacampoy@gmail.com  
-**[linkedin](linkedin.com/in/laia-campoy)**    
-**[Github](https://github.com/Laiacs/Portfolio)**
+**[linkedin.com/in/laia-campoy](linkedin.com/in/laia-campoy)  
+[https://github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)**
 
