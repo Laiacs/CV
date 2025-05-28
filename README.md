@@ -1,4 +1,6 @@
-# Specialized in data analysis, with a background in design and experience leading technical teams in creative projects with clients and agencies. I see data visualization as a form of functional art: turning complexity into visual narratives that connect data with people. I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.
+# Specialized in data analysis, with a background in design and experience leading technical teams in creative projects.
+# I see data visualization as a form of functional art: turning complexity into visual narratives that connect data with people.
+# I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.
 
 ## Projects
 
