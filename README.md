@@ -1,8 +1,7 @@
 # Specialized in data analysis, with a background in design and experience leading technical teams in creative projects.
 # I see data visualization as a form of functional art: turning complexity into visual narratives that connect data with people.
-# I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.
 
-## Projects
+## Data Projects
 
 **Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [See Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
@@ -20,6 +19,8 @@
 After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations.  
 During my Master’s in Data Analytics, I discovered how AI is making data science more accessible and have since focused on thoughtfully applying these technologies to create data-driven solutions.  
 I am eager to put everything I’ve learned into practice and continue growing.
+
+# I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.
 
 ## Skills
 **Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
