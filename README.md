@@ -19,7 +19,7 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-**My CV** Hot colors for my Experience and cold colors for my Education.
+**My Resume** Explore a circular time line of my Resume where hot colors are for my Experience and cold colors are for my Education.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
