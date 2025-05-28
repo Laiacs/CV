@@ -19,7 +19,13 @@
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-**My Resume** Explore a circular time line of my Resume where hot colors are for my Experience and cold colors are for my Education.
+**My Resume** This circular timeline offers a visual journey through the evolution of my career and education. Warm colors represent key moments in my professional experience — from early jobs to leadership roles — while cool colors highlight educational milestones, from my academic foundations to recent reskilling efforts.
+
+The circular format reflects the interconnected nature of learning and working throughout life, where progress isn’t always linear.
+
+My professional path began in the creative industries, where I spent several years in digital postproduction and CGI. Over time, I moved into leadership positions, managing teams and client relationships, and gaining a deep understanding of project workflows and business dynamics. Key milestones include promotions to team manager, overseeing departmental budgets, and coordinating cross-functional projects. More recently, I’ve taken a strategic turn toward data, combining my visual expertise with analytical skills to explore new opportunities in data analytics, and digital marketing.
+
+My educational background began in the arts and design, laying a solid foundation in visual communication and aesthetics. Throughout the years, I’ve continued to upskill — completing a Master’s in Data Analytics and specialized courses in Python, SQL, data visualization, digital analytics... This continuous learning reflects a commitment to evolving with the industry and aligning my skills with the growing demand for data-driven decision-making.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
