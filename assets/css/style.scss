@@ -50,6 +50,10 @@ a[href*="github.com"] {
     border-radius: 4px;
 }
 
+a[href*="github.com"]:hover {
+    color: #8FB9AA;
+    /*background-color: #F4EFEC;*/
+}
 
 /* Texto en negrita generado desde Markdown */
 strong, b {
