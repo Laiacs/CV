@@ -23,12 +23,11 @@
 
 The circular format reflects the interconnected nature of learning and working throughout life, where progress isn’t always linear.
 
-My professional path began in the creative industries, where I spent several years in digital postproduction and CGI. Over time, I moved into leadership positions, managing teams and client relationships, and gaining a deep understanding of project workflows and business dynamics. Key milestones include promotions to team manager, overseeing departmental budgets, and coordinating cross-functional projects. More recently, I’ve taken a strategic turn toward data, combining my visual expertise with analytical skills to explore new opportunities in data analytics, and digital marketing.
-
-My educational background began in the arts and design, laying a solid foundation in visual communication and aesthetics. Throughout the years, I’ve continued to upskill — completing a Master’s in Data Analytics and specialized courses in Python, SQL, data visualization, digital analytics... This continuous learning reflects a commitment to evolving with the industry and aligning my skills with the growing demand for data-driven decision-making.
-
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
+My professional path began in the creative industries, where I spent several years in digital postproduction and CGI. Over time, I moved into leadership positions, managing teams and client relationships, and gaining a deep understanding of project workflows and business dynamics. Key milestones include promotions to team manager, overseeing departmental budgets, and coordinating cross-functional projects. More recently, I’ve taken a strategic turn toward data, combining my visual expertise with analytical skills to explore new opportunities in data analytics, and digital marketing.
+
+My educational background began in the arts and design, laying a solid foundation in visual communication and aesthetics. Throughout the years, I’ve continued to upskill — completing a Master’s in Data Analytics and specialized courses in Python, SQL, data visualization, digital analytics... This continuous learning reflects a commitment to evolving with the industry and aligning my skills with the growing demand for data-driven decision-making.  
 
 **How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
 
