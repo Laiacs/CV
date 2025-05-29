@@ -41,13 +41,13 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 ## Skills  
 SOFT  
-**• Communication**
-**• Commitment**
-**• Quality and detail orientation**
-**• Critical and strategic thinking**
-**• Confidentiality and discretion**
-**• Adaptability and resilience**
-**• Creativity and innovation**
+**• Communication**  
+**• Commitment**  
+**• Quality and detail orientation**  
+**• Critical and strategic thinking**  
+**• Confidentiality and discretion**  
+**• Adaptability and resilience**  
+**• Creativity and innovation**  
 
 HARD  
 **• Data Analysis and Statistics** (EDA)  
