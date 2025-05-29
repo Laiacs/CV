@@ -41,24 +41,24 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 ## Skills  
 SOFT
-• Communication
-• Commitment
-• Quality and detail orientation
-• Critical and strategic thinking
-• Confidentiality and discretion
-• Adaptability and resilience
-• Creativity and innovation
+**• Communication**
+**• Commitment**
+**• Quality and detail orientation**
+**• Critical and strategic thinking**
+**• Confidentiality and discretion**
+**• Adaptability and resilience**
+**• Creativity and innovation**
 
 HARD
-**• Data Analysis and Statistics** (EDA)
-**• SQL and Databases** (MySQL and BigQuery)
-**• Python** (pandas, plotly, matplotlib, seaborn)
-**• Dashboards** (Power BI, Tableau, Looker, learning Flourish)
-**• KPI** Identification of Key Performance Indicators
-**• Google Analytics(GA4) & Google Tag Manager(GTM)**, basic implementation and reporting.
-**• Machine Learning & AI** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.
-**• Figma, Photoshop, Illustrator, RawGraphs...** to create visuals and data storytelling presentations.
-**• Project & Team Management:** Expertise in budgeting, strategic planning, workflow optimization.
+**• Data Analysis and Statistics** (EDA)  
+**• SQL and Databases** (MySQL and BigQuery)  
+**• Python** (pandas, plotly, matplotlib, seaborn)  
+**• Dashboards** (Power BI, Tableau, Looker, learning Flourish)  
+**• KPI** Identification of Key Performance Indicators  
+**• Google Analytics(GA4) & Google Tag Manager(GTM)**, basic implementation and reporting  
+**• Machine Learning & AI** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions  
+**• Figma, Photoshop, Illustrator, RawGraphs...** to create visuals and data storytelling presentations  
+**• Project & Team Management:** Expertise in budgeting, strategic planning, workflow optimization  
 
 ## Languages  
 
