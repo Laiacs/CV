@@ -40,7 +40,7 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 **I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.**
 
 ## Skills  
-SOFT
+SOFT  
 **• Communication**
 **• Commitment**
 **• Quality and detail orientation**
@@ -49,7 +49,7 @@ SOFT
 **• Adaptability and resilience**
 **• Creativity and innovation**
 
-HARD
+HARD  
 **• Data Analysis and Statistics** (EDA)  
 **• SQL and Databases** (MySQL and BigQuery)  
 **• Python** (pandas, plotly, matplotlib, seaborn)  
