@@ -8,20 +8,18 @@
 ## Data Projects:
 
 **Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
-[See Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
+[Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
 
 **Health Analytics: Life Expectancy Analysis** An analysis of socioeconomic and public health factors influencing life expectancy at birth across different regions of the world, along with key recommendations to the World Health Organization (WHO) for improving global public health outcomes.  
-[See Life_Expectancy project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)  
+[Click here to see Life_Expectancy project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)  
 
 **Lift&Lead: Analysis of Medals from the European Weightlifting Championship** Analysis of the medals won at the European Weightlifting Championship for 'Lift&Lead,' a fictional company planning to open CrossFit centers in Spain. The goal of this study is to provide key insights into athlete performance and assist in strategic decision-making for the company.  
-[See Lift&Lead project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Lift_&_Lead)  
+[Click here to see Lift&Lead project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Lift_&_Lead)  
 
 **Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
-[See Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
+[Click here to see Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
 **My Resume** This circular timeline offers a visual journey through the evolution of my career and education. Warm colors represent key moments in my professional experience — from early jobs to leadership roles — while cool colors highlight educational milestones, from my academic foundations to recent reskilling efforts.
-
-The circular format reflects the interconnected nature of learning and working throughout life, where progress isn’t always linear.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda_02](Llegenda_02.png)
@@ -58,9 +56,9 @@ Native
 **Catalan**
 Native
 
-## Contact
-Barcelona, Spain  
-laiacampoy@gmail.com  
+## Contact  
 [linkedin.com/in/laia-campoy](https://linkedin.com/in/laia-campoy)  
+laiacampoy@gmail.com  
 [github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
+Barcelona, Spain
 
