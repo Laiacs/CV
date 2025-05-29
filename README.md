@@ -5,7 +5,7 @@
 
 
 
-## Data Projects:
+## Data Projects
 
 **Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
@@ -39,7 +39,7 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 **I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.**
 
-## Skills:
+## Skills
 **Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
 **Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.  
 **Machine Learning & AI:** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.   
@@ -47,7 +47,7 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 **Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
 **Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
 
-## Languages:  
+## Languages  
 
 **English**
 Fluent  
@@ -62,5 +62,5 @@ laiacampoy@gmail.com
 [https://linkedin.com/in/laia-campoy](https://linkedin.com/in/laia-campoy)  
 [https://github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
 
-
+The final element.
 
