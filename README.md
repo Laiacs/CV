@@ -5,21 +5,21 @@
 
 
 
-## Data Projects:
+## Data Projects
 
-**Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
+**• Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
 
-**Health Analytics: Life Expectancy Analysis** An analysis of socioeconomic and public health factors influencing life expectancy at birth across different regions of the world, along with key recommendations to the World Health Organization (WHO) for improving global public health outcomes.  
+**• Health Analytics: Life Expectancy Analysis** An analysis of socioeconomic and public health factors influencing life expectancy at birth across different regions of the world, along with key recommendations to the World Health Organization (WHO) for improving global public health outcomes.  
 [Click here to see Life_Expectancy project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Life_Expectancy)  
 
-**Lift&Lead: Analysis of Medals from the European Weightlifting Championship** Analysis of the medals won at the European Weightlifting Championship for 'Lift&Lead,' a fictional company planning to open CrossFit centers in Spain. The goal of this study is to provide key insights into athlete performance and assist in strategic decision-making for the company.  
+**• Lift&Lead: Analysis of Medals from the European Weightlifting Championship** Analysis of the medals won at the European Weightlifting Championship for 'Lift&Lead,' a fictional company planning to open CrossFit centers in Spain. The goal of this study is to provide key insights into athlete performance and assist in strategic decision-making for the company.  
 [Click here to see Lift&Lead project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Lift_&_Lead)  
 
-**Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
+**• Chargeback Dashboard with LookerStudio: Life Expectancy Analysis** a dashboard for Amazon’s Chargebacks department, aimed at reducing their chargebacks for authenticated transactions by 5%.  
 [Click here to see Chargeback_Dashboard_with_LookerStudio project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Chargeback_Dashboard_with_LookerStudio) 
 
-**My Resume** This circular timeline offers a visual journey through the evolution of my career and education. Warm colors represent key moments in my professional experience — from early jobs to leadership roles — while cool colors highlight educational milestones, from my academic foundations to recent reskilling efforts.
+**• My Resume** This circular timeline offers a visual journey through the evolution of my career and education. Warm colors represent key moments in my professional experience — from early jobs to leadership roles — while cool colors highlight educational milestones, from my academic foundations to recent reskilling efforts.
 
 ![CVEspiral](CV_Espiral_01.jpg)
 ![Llegenda](Llegenda_03.png)
@@ -27,7 +27,7 @@ My professional path began in the creative industries, where I spent several yea
 
 My educational background began in the arts and design, laying a solid foundation in visual communication and aesthetics. Throughout the years, I’ve continued to upskill — completing a Master’s in Data Analytics and specialized courses in Python, SQL, data visualization, digital analytics... This continuous learning reflects a commitment to evolving with the industry and aligning my skills with the growing demand for data-driven decision-making.  
 
-**How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
+**• How I spent my time** This timeline chart illustrates how I have allocated my time throughout the years, starting from my academic journey and moving through the different phases of my professional and personal life. Key milestones include the beginning of my career, promotions, becoming a parent, and more recently, my reskilling into data analytics. Each phase reflects shifts in priorities and the evolving balance between work, learning, and family life.  
 
 ![Temps_Laia](temps_Laia_04.png)
 
@@ -39,15 +39,28 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 **I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.**
 
-## Skills:
-**Data Analysis & Visualization:** Tableau, Looker Studio, Power BI, matplotlib, seaborn, RawGraphs.         
-**Programming & Databases:** Python (pandas, NumPy), SQL, BigQuery.  
-**Machine Learning & AI:** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions.   
-**Analytical Tools:** Advanced Excel, Google Analytics.   
-**Data Storytelling:** Clear and impactful visual design for stakeholders using tools like Photoshop, Illustrator, Cinema 4D, Canva, Figma and AI-powered solutions.  
-**Project & Team Management:** Expertise in budgeting, recruiting, strategic planning, workflow optimization.
+## Skills  
+SOFT  
+**• Communication**  
+**• Commitment**  
+**• Quality and detail orientation**  
+**• Critical and strategic thinking**  
+**• Confidentiality and discretion**  
+**• Adaptability and resilience**  
+**• Creativity and innovation**  
 
-## Languages:  
+HARD  
+**• Data Analysis and Statistics** (EDA)  
+**• SQL and Databases** (MySQL and BigQuery)  
+**• Python** (pandas, plotly, matplotlib, seaborn)  
+**• Dashboards** (Power BI, Tableau, Looker, learning Flourish)  
+**• KPI** Identification of Key Performance Indicators  
+**• Google Analytics(GA4) & Google Tag Manager(GTM)**, basic implementation and reporting  
+**• Machine Learning & AI** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions  
+**• Figma, Photoshop, Illustrator, RawGraphs...** to create visuals and data storytelling presentations  
+**• Project & Team Management:** Expertise in budgeting, strategic planning, workflow optimization  
+
+## Languages  
 
 **English**
 Fluent  
@@ -59,8 +72,6 @@ Native
 ## Contact  
 Barcelona, Spain  
 laiacampoy@gmail.com  
-[linkedin.com/in/laia-campoy](https://linkedin.com/in/laia-campoy)  
-[github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
-
-
+![Linkedin icona](Linkedin.png)[https://linkedin.com/in/laia-campoy](https://linkedin.com/in/laia-campoy)  
+![Github_icona](github.png)[https://github.com/Laiacs/Portfolio](https://github.com/Laiacs/Portfolio)  
 
