@@ -41,15 +41,16 @@ After 7 years leading teams in the creative industry, I transitioned into data a
 
 ## Skills  
 SOFT  
-**• Communication**  
-**• Commitment**  
-**• Quality and detail orientation**  
+**• Clear and empathetic communication**  
+**• Commitment and attention to quality and detail**  
 **• Critical and strategic thinking**  
-**• Confidentiality and discretion**  
-**• Adaptability and resilience**  
 **• Creativity and innovation**  
+**• Adaptability and resilience**  
+**• Confidentiality and discretion**  
+**• Autonomy and continuous learning**  
 
 HARD  
+**• Interactive data visualization** (Observable, Plot, D3.js, JavaScript, HTML & CSS)
 **• Data Analysis and Statistics** (EDA)  
 **• SQL and Databases** (MySQL and BigQuery)  
 **• Python** (pandas, plotly, matplotlib, seaborn)  
