@@ -50,7 +50,7 @@ SOFT
 **• Autonomy and continuous learning**  
 
 HARD  
-**• Interactive data visualization** (Observable, Plot, D3.js, JavaScript, HTML & CSS)
+**• Interactive data visualization** (Observable, Plot, D3.js, JavaScript, HTML & CSS)  
 **• Data Analysis and Statistics** (EDA)  
 **• SQL and Databases** (MySQL and BigQuery)  
 **• Python** (pandas, plotly, matplotlib, seaborn)  
