@@ -6,8 +6,8 @@
 
 
 ## Data Projects
-**• Winner of the 30 days Women DataViz Challenge** The Women in DataViz 2025 Awards are an initiative of the ViT Foundation, a nonprofit organization committed to transparency, social innovation, and knowledge sharing through data visualization. The awards are part of the RETECH project,of the Catalan Government. I am honored to be the winner of this first edition, with my project “Who is Most Responsible for Climate Change? A Global Look at Historical CO₂ Emissions”, an interactive visualization that invites reflection on the inequality of climate responsibility among countries.    
-[Click here to see Airbnb_Madrid project on Observable](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
+**• Winner of the 30 days Women DataViz Challenge** The Women in DataViz 2025 Awards are an initiative of the ViT Foundation, a nonprofit organization committed to transparency, social innovation, and knowledge sharing through data visualization. The awards are part of the RETECH project,of the Catalan Government. I am honored to be the winner of this first edition, with my project “Who has the most historical responsibilty for Climate Change?”, an interactive visualization that invites reflection on the inequality of climate responsibility among countries.    
+[Click here to see Airbnb_Madrid project on Observable](https://observablehq.com/d/c552448cb046fe91)  
 
 **• Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
