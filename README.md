@@ -7,7 +7,7 @@
 
 ## Data Projects
 **• Winner of the 30 days Women DataViz Challenge** The Women in DataViz 2025 Awards are an initiative of the ViT Foundation, a nonprofit organization committed to transparency, social innovation, and knowledge sharing through data visualization. The awards are part of the RETECH project, led by the Department of Business and Labour and the Secretariat for Digital Policies of the Catalan Government, and connected to other ViT initiatives such as the 30 Days Women Dataviz Challenge and the creation of open data and best practices repositories.    
-[Click here to see the Challenge project on Observable](https://observablehq.com/d/c552448cb046fe91)  
+[Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
 
 **• Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
