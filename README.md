@@ -6,6 +6,8 @@
 
 
 ## Data Projects
+**• Winner of the 30 days Women DataViz Challenge** The Women in DataViz 2025 Awards were created to recognize, promote, and showcase women working in data visualization. https://www.fundaciovit.org/30dayswomendatavizchallenge   
+[Click here to see the Challenge project on GitHub](https://observablehq.com/d/c552448cb046fe91) 
 
 **• Airbnb: Apartment Price Optimization in Madrid** Analysis of the nightly price of Airbnb apartments in Madrid to provide relevant insights and help the client maximize their returns. This study aims to better understand the variables influencing the price and offer recommendations based on the data obtained.    
 [Click here to see Airbnb_Madrid project on GitHub](https://github.com/Laiacs/Portfolio/tree/main/Airbnb_Madrid)  
