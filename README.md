@@ -43,35 +43,26 @@ Leveraging my background in design and photography, I specialize in creating imp
 
 ## Skills
 Analytical & Data Skills
+
 **• Data Visualization:** Observable, Plot, D3.js, Looker Studio
 **• Data Analysis & EDA:** Python (pandas, matplotlib, seaborn), SQL (MySQL, BigQuery)
 **• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics
 **• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting
 
 Design & Storytelling
+
 **Information Design & Data Narrative**
 **Visual Storytelling:** Figma, Illustrator, Photoshop
 **Content Design:** Creating clear, purposeful content aligned with user needs
 **Project & Collaboration Workflows:** Coordination across teams, visual-analytical alignment
 
 Critical, Communication & Leadership Skills
+
 **Clear, structured communication**
 **Critical & strategic thinking**
 **Adaptability & resilience**
 **Autonomy & continuous learning**
 **Team leadership & cross-functional collaboration**
-
-
-**• Interactive data visualization** (Observable, Plot, D3.js, JavaScript, HTML & CSS)  
-**• Data Analysis and Statistics** (EDA)  
-**• SQL and Databases** (MySQL and BigQuery)  
-**• Python** (pandas, plotly, matplotlib, seaborn)  
-**• Dashboards** (Power BI, Tableau, Looker, learning Flourish)  
-**• KPI** Identification of Key Performance Indicators  
-**• Google Analytics(GA4) & Google Tag Manager(GTM)**, basic implementation and reporting  
-**• Machine Learning & AI** Basic understanding of supervised/unsupervised learning models and AI frameworks for data-driven solutions  
-**• Figma, Photoshop, Illustrator, RawGraphs...** to create visuals and data storytelling presentations  
-**• Project & Team Management:** Expertise in budgeting, strategic planning, workflow optimization  
 
 ## Languages  
 
