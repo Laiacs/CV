@@ -42,27 +42,24 @@ Leveraging my background in design and photography, I specialize in creating imp
 **I bring a cross-functional perspective that bridges design, business, and technology, serving as a connector between stakeholders and data teams to drive clarity, understanding, and results.**
 
 ## Skills
-Analytical & Data Skills
+Analytical & Data Skills  
+**• Data Visualization:** Observable, Plot, D3.js, Looker Studio  
+**• Data Analysis & EDA:** Python (pandas, matplotlib, seaborn), SQL (MySQL, BigQuery)  
+**• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics  
+**• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting  
 
-**• Data Visualization:** Observable, Plot, D3.js, Looker Studio
-**• Data Analysis & EDA:** Python (pandas, matplotlib, seaborn), SQL (MySQL, BigQuery)
-**• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics
-**• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting
+Design & Storytelling  
+**Information Design & Data Narrative**  
+**Visual Storytelling:** Figma, Illustrator, Photoshop  
+**Content Design:** Creating clear, purposeful content aligned with user needs  
+**Project & Collaboration Workflows:** Coordination across teams, visual-analytical alignment  
 
-Design & Storytelling
-
-**Information Design & Data Narrative**
-**Visual Storytelling:** Figma, Illustrator, Photoshop
-**Content Design:** Creating clear, purposeful content aligned with user needs
-**Project & Collaboration Workflows:** Coordination across teams, visual-analytical alignment
-
-Critical, Communication & Leadership Skills
-
-**Clear, structured communication**
-**Critical & strategic thinking**
-**Adaptability & resilience**
-**Autonomy & continuous learning**
-**Team leadership & cross-functional collaboration**
+Critical, Communication & Leadership Skills  
+**Clear, structured communication**  
+**Critical & strategic thinking**  
+**Adaptability & resilience**  
+**Autonomy & continuous learning**  
+**Team leadership & cross-functional collaboration**  
 
 ## Languages  
 
