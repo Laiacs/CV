@@ -1,7 +1,7 @@
 # Digital Content Specialist & Data Storyteller
 
 ## Bridging creative experience and analytical insight.
-# Specialized in data analysis and data visualization, with a foundation in design and several years leading technical and creative teams. I bring a cross-functional perspective that combines analytical rigor with clear communication and visual thinking.
+# I turn complexity into visual narratives that connect data with people.
 
 
 ## Data Projects
