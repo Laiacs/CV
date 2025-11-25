@@ -36,21 +36,32 @@ My educational background began in the arts and design, laying a solid foundatio
 ![Llegenda_temps_Laia](llegenda_temps_Laia_03.png)
 
 ## From team & project management to Data Analytics
-After 7 years leading teams in the creative industry, I transitioned into data analytics, driven by my experience managing budgets and addressing financial discrepancies. Leveraging my background in design and photography, I specialize in creating impactful data visualizations. 
+After 7 years leading teams in the creative industry, I transitioned into data analytics—driven by my hands-on experience managing budgets, workflows, and addressing complex business challenges.
+Leveraging my background in design and photography, I specialize in creating impactful data visualizations that make information accessible and actionable.
 
-**I bring a cross-functional perspective that bridges design, business, and technology, acting as a link between stakeholders and data teams.**
+**I bring a cross-functional perspective that bridges design, business, and technology, serving as a connector between stakeholders and data teams to drive clarity, understanding, and results.**
 
-## Skills  
-SOFT  
-**• Clear and empathetic communication**  
-**• Commitment and attention to quality and detail**  
-**• Critical and strategic thinking**  
-**• Creativity and innovation**  
-**• Adaptability and resilience**  
-**• Confidentiality and discretion**  
-**• Autonomy and continuous learning**  
+## Skills
+Analytical & Data Skills
+**• Data Visualization:** Observable, Plot, D3.js, Looker Studio
+**• Data Analysis & EDA:** Python (pandas, matplotlib, seaborn), SQL (MySQL, BigQuery)
+**• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics
+**• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting
 
-HARD  
+Design & Storytelling
+**Information Design & Data Narrative**
+**Visual Storytelling:** Figma, Illustrator, Photoshop
+**Content Design:** Creating clear, purposeful content aligned with user needs
+**Project & Collaboration Workflows:** Coordination across teams, visual-analytical alignment
+
+Critical, Communication & Leadership Skills
+**Clear, structured communication**
+**Critical & strategic thinking**
+**Adaptability & resilience**
+**Autonomy & continuous learning**
+**Team leadership & cross-functional collaboration**
+
+
 **• Interactive data visualization** (Observable, Plot, D3.js, JavaScript, HTML & CSS)  
 **• Data Analysis and Statistics** (EDA)  
 **• SQL and Databases** (MySQL and BigQuery)  
