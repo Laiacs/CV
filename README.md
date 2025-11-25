@@ -1,8 +1,7 @@
 # Digital Content Specialist & Data Storyteller
 
-## Turning data into clarity, insight and meaningful action.
-# I design analytical narratives, visual systems and decision-support content that help teams understand, align and move forward—with purpose and impact.
-
+## Bridging creative experience and analytical insight.
+# Specialized in data analysis and data visualization, with a foundation in design and several years leading technical and creative teams. I bring a cross-functional perspective that combines analytical rigor with clear communication and visual thinking.
 
 
 ## Data Projects
