@@ -44,7 +44,7 @@ Leveraging my background in design and photography, I specialize in creating imp
 ## Skills
 ANALYTICAL & DATA SKILLS  
 **• Data Visualization:** Observable, Plot, D3.js, Looker Studio  
-**• Data Analysis & EDA:** Python (pandas, matplotlib, seaborn), SQL (MySQL, BigQuery)  
+**• Data Analysis & EDA:** Python (pandas, seaborn, plotly, matplotlib), SQL (MySQL, BigQuery)  
 **• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics  
 **• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting  
 
