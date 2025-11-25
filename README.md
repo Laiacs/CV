@@ -1,7 +1,7 @@
-# Data Analyst
+# Digital Content Specialist & Data Storyteller
 
-## I see data visualization as a form of functional art:
-# turning complexity into visual narratives that connect data with people.
+## Turning data into clarity, insight and meaningful action.
+# I design analytical narratives, visual systems and decision-support content that help teams understand, align and move forward—with purpose and impact.
 
 
 
