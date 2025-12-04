@@ -44,7 +44,7 @@ Leveraging my background in design and photography, I specialize in creating imp
 ## Skills
 
 DESIGN & PRESENTATION  
-**• Presentation Design:** PowerPoint, Keynote, Google Slides
+**• Presentation Design:** PowerPoint, Keynote, Google Slides  
 **• Visual Storytelling:** Figma, Illustrator, Photoshop 
 **• Information Design & Data Narrative**  
 **• Report & Slide Design:** Executive presentations, decks, visual reports, infographics  
