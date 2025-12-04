@@ -1,7 +1,5 @@
 title: Laia Campoy
 logo: "Laia_color.png"
-description: Specialized in data analysis and data visualization, with a foundation in design and several years leading technical and creative teams. I bring a cross-functional perspective that combines analytical rigor with clear communication and visual thinking.
-
-theme: jekyll-theme-minimal 
+description: Specialized in data visualization and presentation design. I combine years of leading technical and creative teams with strong visual craft to transform complex data into clear, compelling presentations and reports that support decision-making.
 plugins:
   - jekyll-seo-tag # Add SEO plugin
