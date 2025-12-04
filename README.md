@@ -1,4 +1,4 @@
-#  Data Visualization Specialist | Presentation & Data Designer
+#  Presentation & Data Designer
 
 ## Bridging creative experience and analytical insight.
 # I turn complexity into visual narratives that connect data with people.
