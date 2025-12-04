@@ -42,17 +42,13 @@ Leveraging my background in design and photography, I specialize in creating imp
 **I bring a cross-functional perspective that bridges design, business, and technology, serving as a connector between stakeholders and data teams to drive clarity, understanding, and results.**
 
 ## Skills
-ANALYTICAL & DATA SKILLS  
-**• Data Visualization:** Observable, Plot, D3.js, Looker Studio  
-**• Data Analysis & EDA:** Python (pandas, seaborn, plotly, matplotlib), SQL (MySQL, BigQuery)  
-**• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics  
-**• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting  
 
-DESIGN & STORYTELLING  
+DESIGN & PRESENTATION  
+**• Presentation Design:** PowerPoint, Keynote, Google Slides
+**• Visual Storytelling:** Figma, Illustrator, Photoshop 
 **• Information Design & Data Narrative**  
-**• Visual Storytelling:** Figma, Illustrator, Photoshop  
+**• Report & Slide Design:** Executive presentations, decks, visual reports, infographics  
 **• Content Design:** Creating clear, purposeful content aligned with user needs  
-**• Project & Collaboration Workflows:** Coordination across teams, visual-analytical alignment  
 
 CRITICAL, COMMUNICATION & LEADERSHIP SKILLS  
 **• Clear, structured communication**  
@@ -61,6 +57,11 @@ CRITICAL, COMMUNICATION & LEADERSHIP SKILLS
 **• Autonomy & continuous learning**  
 **• Team leadership & cross-functional collaboration**  
 
+ANALYTICAL & DATA SKILLS  
+**• Data Visualization:** Observable, Plot, D3.js, Looker Studio  
+**• Data Analysis & EDA:** Python (pandas, seaborn, plotly, matplotlib), SQL (MySQL, BigQuery)  
+**• Dashboards & KPIs:** Dashboard design, reporting workflows, decision-oriented metrics  
+**• Digital Analytics:** Google Analytics (GA4), Google Tag Manager, performance reporting 
 ## Languages  
 
 **English**
